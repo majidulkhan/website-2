@@ -1,0 +1,155 @@
+.header-section{
+    background-image: url(./img/pic.jpg);
+    background-size: cover;
+    color: #fff;
+    padding: 28px;
+
+}
+
+.left-logo{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    color: wheat;
+    font-family: cursive;
+}
+
+.right-menu{
+    display: inline-block;
+    width: 70%;
+    text-align: right;
+    margin-left: 50px;
+}
+.right-menu a{
+    display: inline-block;
+    padding-right: 10px;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.button{
+    border-color: red;
+}
+img {
+    height: 150px;
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 140px;
+}
+
+.center-p{
+    display: inline-block !important;
+}
+
+.image-section-left{
+    display: inline-block;
+    width: 50%;
+}
+.text-right{
+    display: inline-block;
+    width: 40%;
+}
+
+p {
+    text-align: justify;
+    margin: 11px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background: #a0030380;
+    padding: 5px 20px;
+    border-radius: 6px;
+    margin-left: 12px;
+}
+a.a2 {
+    border: 2px solid black;
+    background: none;
+    color: black;
+}
+.link {
+    text-align: center;
+    
+}
+.divlogo{
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+/*  */
+.sec3 {
+    margin-top: 50px;
+}
+
+.sec3 h2 {
+    padding: 50px;
+}
+
+.sec3 img {
+    width: 68px;
+    height: auto;
+    margin-left: -8px;
+    margin-bottom: 20px;
+}
+
+.sec5 {
+    margin-top: 70px;
+}
+
+.sec5 h2 {
+    padding: 50px;
+}
+
+.sec5 img {
+    width: 618px;
+    margin-bottom: auto;
+    margin-left: 0px;
+}
+
+.sec5 button {
+    background-color: rgb(120, 238, 183);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.sec8 {
+    margin-top: 80px;
+}
+
+.sec8 h4 {
+    text-align: center;
+}
+
+.sec8 button {
+    background-color: rgb(231, 55, 84);
+    border-radius: 10px;
+}
+
+.sec8 img {
+    width: 1000px;
+    margin-left: 61px;
+}
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 40px 0px;
+    }
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    display: block;
+
+
+}
+
+.footer a,
+h5 {
+    padding-left: 30px;
+}
+
+.footer p {
+    padding: 20px 0px;
+    margin-top: 60px;
+    text-align: center;
+}
